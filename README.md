@@ -6,3 +6,5 @@ The commonly used UI elements implementation
 * typeahead
 * multi-select checkbox
 * Infinite scroll
+* settimeout one after another in a for loop
+* custom header hide on scroll down and show on scroll up
