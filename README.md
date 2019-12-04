@@ -11,4 +11,5 @@ The commonly used UI elements implementation
 * Numbers rolling up on add and removal - cart behaviour , tweet count behaviour
 * Netflix forward and backward implementation 
 * Notifications coming from browser top
+* Slider
 
