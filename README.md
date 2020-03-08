@@ -12,4 +12,5 @@ The commonly used UI elements implementation
 * Netflix forward and backward implementation 
 * Notifications coming from browser top
 * Slider
+* Content placeholders like FB
 
